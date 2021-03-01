@@ -19,9 +19,9 @@ definition(
     author: "Lukas Weier",
     description: "A specific App to control the rest",
     category: "Convenience",
-    iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
-    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png",
-    iconX3Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png")
+    iconUrl: "https://raw.githubusercontent.com/sajiko5821/Specific-Automations/main/Icons/specificAutomationsLogo.png",
+    iconX2Url: "https://raw.githubusercontent.com/sajiko5821/Specific-Automations/main/Icons/specificAutomationsLogo.png",
+    iconX3Url: "https://raw.githubusercontent.com/sajiko5821/Specific-Automations/main/Icons/specificAutomationsLogo.png")
 
 
 preferences {
